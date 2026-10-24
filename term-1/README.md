@@ -10,7 +10,7 @@ Term 1 builds the base every marketer needs: how marketing works, how websites a
 |---|---|---|---|
 | 1 | [Foundations of Digital Marketing](01-foundations-of-digital-marketing/README.md) | 5 | [Practice test](01-foundations-of-digital-marketing/practice-test.md) |
 | 2 | [Essentials of Website Design and Development](02-website-design-and-development/README.md) | 5 | [Practice test](02-website-design-and-development/practice-test.md) |
-| 3 | Introduction to SEO *(coming soon)* | 8 | – |
+| 3 | [Introduction to SEO](03-introduction-to-seo/README.md) | 8 | [Practice test](03-introduction-to-seo/practice-test.md) |
 | 4 | Search and Display Marketing *(coming soon)* | 5 | – |
 | 5 | Social Media Marketing *(coming soon)* | 7 | – |
 | 6 | Email Marketing *(coming soon)* | 3 | – |
