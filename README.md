@@ -65,7 +65,19 @@ flowchart LR
 
 </details>
 
-- Module 2 · Essentials of Website Design and Development *(coming soon)*
+<details>
+<summary><b>Module 2 · Essentials of Website Design and Development</b> (5 sessions)</summary>
+
+- 📘 [Module overview & cheat-sheet](term-1/02-website-design-and-development/README.md)
+- Session 1 · [Introduction to the Web and HTML5](term-1/02-website-design-and-development/session-01-web-and-html5-introduction.md)
+- Session 2 · [Formatting Text, Hyperlinks and Anchors](term-1/02-website-design-and-development/session-02-formatting-text-hyperlinks-anchors.md)
+- Session 3 · [Introduction to CSS3](term-1/02-website-design-and-development/session-03-introduction-to-css3.md)
+- Session 4 · [Formatting Using Style Sheets](term-1/02-website-design-and-development/session-04-formatting-with-style-sheets.md)
+- Session 5 · [HTML Layout, Forms and Elements](term-1/02-website-design-and-development/session-05-html-layout-forms-elements.md)
+- 📝 [Practice test](term-1/02-website-design-and-development/practice-test.md)
+
+</details>
+
 - Module 3 · Introduction to SEO *(coming soon)*
 - Module 4 · Search and Display Marketing *(coming soon)*
 - Module 5 · Social Media Marketing *(coming soon)*
