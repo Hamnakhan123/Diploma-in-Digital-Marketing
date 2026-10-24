@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chai Box | Product cards</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root { --brand: #7a3e00; --accent: #ffb703; --bg: #fffaf3; }
+    * { box-sizing: border-box; }
+
+    /* Text and font properties */
+    body {
+      font-family: "Poppins", Arial, sans-serif;
+      font-size: 1rem;
+      line-height: 1.6;
+      color: #333;
+      background: var(--bg);
+      margin: 0;
+    }
+    h1 {
+      font-size: clamp(1.75rem, 4vw, 2.75rem);
+      text-align: center;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: var(--brand);
+    }
+
+    /* Hero background with a gradient overlay on an image */
+    .hero {
+      background: linear-gradient(rgba(0,0,0,.45), rgba(0,0,0,.45)), url("images/chai.jpg") center / cover no-repeat;
+      color: #fff;
+      padding: 4rem 1rem;
+      text-align: center;
+    }
+
+    /* Flexbox row of cards */
+    .cards {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+      justify-content: center;
+      padding: 2rem 1rem;
+    }
+
+    /* The box model in action */
+    .card {
+      width: 16rem;
+      padding: 1.25rem;               /* space inside the border */
+      border: 1px solid #eadbc8;      /* the edge */
+      margin: 0;                      /* space outside (gap handles it) */
+      border-radius: 12px;
+      background: #fff;
+      box-shadow: 0 4px 12px rgba(0,0,0,.08);
+      transition: transform .2s ease, box-shadow .2s ease;
+    }
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 20px rgba(0,0,0,.15);
+    }
+    .card h2 { margin-top: 0; font-size: 1.25rem; }
+    .hero h1 { color: #fff; }   /* more specific than h1, so it wins */
+
+    .badge {
+      position: absolute;             /* positioned relative to .card-wrap */
+      top: -10px; right: -10px;
+      background: var(--accent);
+      padding: .25rem .6rem;
+      border-radius: 999px;
+      font-size: .75rem; font-weight: 600;
+    }
+    .card-wrap { position: relative; }
+
+    .btn {
+      display: inline-block;
+      padding: .6rem 1.2rem;
+      background: var(--brand);
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: 600;
+    }
+    .btn:hover, .btn:focus { background: #5c2e00; }
+
+    /* Responsive: stack cards full-width on small phones */
+    @media (max-width: 480px) {
+      .card { width: 100%; }
+      .hero { padding: 2.5rem 1rem; }
+    }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <h1>Chai Box</h1>
+    <p>Hot chai delivered in 30 minutes</p>
+  </header>
+  <main class="cards">
+    <div class="card-wrap">
+      <span class="badge">Bestseller</span>
+      <article class="card">
+        <h2>Doodh Patti</h2>
+        <p>Strong, creamy and classic.</p>
+        <p><strong>₨ 150</strong></p>
+        <a class="btn" href="#order">Order now</a>
+      </article>
+    </div>
+    <article class="card">
+      <h2>Kashmiri Chai</h2>
+      <p>Pink, nutty and festive.</p>
+      <p><strong>₨ 250</strong></p>
+      <a class="btn" href="#order">Order now</a>
+    </article>
+    <article class="card">
+      <h2>Green Tea</h2>
+      <p>Light, with fresh mint.</p>
+      <p><strong>₨ 120</strong></p>
+      <a class="btn" href="#order">Order now</a>
+    </article>
+  </main>
+</body>
+</html>
