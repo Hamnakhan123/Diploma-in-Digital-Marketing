@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chai Box Catering | Book for your event</title>
+  <meta name="description" content="Live chai stalls for weddings and office events in Karachi. Get a quote in 2 hours.">
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Arial, sans-serif; line-height: 1.6; color: #333; }
+    /* CSS Grid page layout */
+    .page {
+      display: grid;
+      grid-template-areas: "header" "main" "aside" "footer";
+      gap: 1rem;
+      max-width: 64rem; margin: 0 auto; padding: 1rem;
+    }
+    @media (min-width: 768px) {
+      .page { grid-template-columns: 2fr 1fr; grid-template-areas: "header header" "main aside" "footer footer"; }
+    }
+    header { grid-area: header; } main { grid-area: main; }
+    aside { grid-area: aside; background: #fff4e0; padding: 1rem; border-radius: 8px; }
+    footer { grid-area: footer; font-size: .875rem; color: #666; }
+    nav ul { display: flex; gap: 1rem; list-style: none; padding: 0; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ddd; padding: .5rem; text-align: left; }
+    thead { background: #7a3e00; color: #fff; }
+    form { display: grid; gap: .75rem; }
+    label { font-weight: bold; }
+    input, select, textarea { width: 100%; padding: .5rem; font: inherit; border: 1px solid #bbb; border-radius: 4px; }
+    input:invalid:not(:placeholder-shown) { border-color: crimson; }
+    fieldset { border: 1px solid #ddd; border-radius: 4px; }
+    fieldset label { font-weight: normal; }
+    fieldset input { width: auto; }
+    button { padding: .75rem; background: #7a3e00; color: #fff; border: 0; border-radius: 4px; font-size: 1rem; cursor: pointer; }
+    figure { margin: 0; }
+    img, video { max-width: 100%; height: auto; }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <nav aria-label="Main">
+        <ul>
+          <li><a href="#packages">Packages</a></li>
+          <li><a href="#quote">Get a quote</a></li>
+        </ul>
+      </nav>
+      <h1>Live Chai Stalls for Your Event</h1>
+    </header>
+
+    <main>
+      <section id="packages">
+        <h2>Packages</h2>
+        <table>
+          <caption>Prices for Karachi, 2026</caption>
+          <thead>
+            <tr><th scope="col">Package</th><th scope="col">Guests</th><th scope="col">Price (₨)</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Office</td><td>up to 50</td><td>25,000</td></tr>
+            <tr><td>Mehndi</td><td>up to 200</td><td>75,000</td></tr>
+            <tr><td>Wedding</td><td>up to 500</td><td>160,000</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <figure>
+        <img src="images/stall.jpg" alt="Chai Box stall serving guests at a wedding" width="800" height="450" loading="lazy">
+        <figcaption>Our stall at a DHA wedding, December 2025.</figcaption>
+      </figure>
+
+      <video controls width="640" poster="images/video-poster.jpg">
+        <source src="media/stall-tour.mp4" type="video/mp4">
+        Your browser does not support HTML5 video.
+      </video>
+    </main>
+
+    <aside id="quote">
+      <h2>Get a quote in 2 hours</h2>
+      <form action="https://example.com/leads" method="post">
+        <label for="name">Full name</label>
+        <input id="name" name="name" type="text" placeholder="Ayesha Khan" required autocomplete="name">
+
+        <label for="phone">Mobile number</label>
+        <input id="phone" name="phone" type="tel" placeholder="03001234567" pattern="03[0-9]{9}" required>
+
+        <label for="email">Email (optional)</label>
+        <input id="email" name="email" type="email" placeholder="you@example.com">
+
+        <label for="event">Event type</label>
+        <select id="event" name="event" required>
+          <option value="">Choose…</option>
+          <option>Office</option>
+          <option>Mehndi</option>
+          <option>Wedding</option>
+        </select>
+
+        <label for="date">Event date</label>
+        <input id="date" name="date" type="date" min="2026-11-01" required>
+
+        <label for="guests">Number of guests</label>
+        <input id="guests" name="guests" type="number" min="10" max="1000" step="10" value="100">
+
+        <fieldset>
+          <legend>Preferred contact</legend>
+          <label><input type="radio" name="contact" value="whatsapp" checked> WhatsApp</label>
+          <label><input type="radio" name="contact" value="call"> Phone call</label>
+        </fieldset>
+
+        <label for="notes">Anything else?</label>
+        <textarea id="notes" name="notes" rows="3" maxlength="300"></textarea>
+
+        <label><input type="checkbox" name="consent" required> I agree to be contacted about my booking.</label>
+
+        <input type="hidden" name="utm_source" value="instagram">
+        <button type="submit">Request my quote</button>
+      </form>
+    </aside>
+
+    <footer>
+      <p>© 2026 Chai Box Catering · <a href="tel:+922100000000">021-0000-0000</a></p>
+    </footer>
+  </div>
+</body>
+</html>
