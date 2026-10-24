@@ -78,7 +78,22 @@ flowchart LR
 
 </details>
 
-- Module 3 · Introduction to SEO *(coming soon)*
+<details>
+<summary><b>Module 3 · Introduction to SEO</b> (8 sessions)</summary>
+
+- 📘 [Module overview & cheat-sheet](term-1/03-introduction-to-seo/README.md)
+- Session 1 · [Understanding Search Engines and SEO Components](term-1/03-introduction-to-seo/session-01-search-engines-and-seo-components.md)
+- Session 2 · [On-Page and Off-Page Optimization](term-1/03-introduction-to-seo/session-02-on-page-and-off-page-optimization.md)
+- Session 3 · [Mobile SEO, SEO-Friendly Content and Local SEO](term-1/03-introduction-to-seo/session-03-mobile-seo-and-content.md)
+- Session 4 · [Advanced SEO Techniques and Tools](term-1/03-introduction-to-seo/session-04-advanced-seo-techniques-and-tools.md)
+- Session 5 · [Technical SEO and Site Performance](term-1/03-introduction-to-seo/session-05-technical-seo-and-site-performance.md)
+- Session 6 · [Voice Search Optimization](term-1/03-introduction-to-seo/session-06-voice-search-optimization.md)
+- Session 7 · [Artificial Intelligence and Machine Learning in SEO](term-1/03-introduction-to-seo/session-07-ai-and-ml-in-seo.md)
+- Session 8 · [Enhancing User Experience and SEO with AI](term-1/03-introduction-to-seo/session-08-ux-and-seo-with-ai.md)
+- 📝 [Practice test](term-1/03-introduction-to-seo/practice-test.md)
+
+</details>
+
 - Module 4 · Search and Display Marketing *(coming soon)*
 - Module 5 · Social Media Marketing *(coming soon)*
 - Module 6 · Email Marketing *(coming soon)*
