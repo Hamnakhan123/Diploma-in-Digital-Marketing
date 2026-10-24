@@ -1,0 +1,62 @@
+/* style.css – external style sheet for the Chai Box page */
+
+/* Universal selector: a predictable starting point */
+* {
+  box-sizing: border-box;
+}
+
+/* Element selector */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  color: #333333;
+  background-color: #fffaf3;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Grouping selector */
+h1, h2 {
+  color: #7a3e00;
+}
+
+/* Class selector – reusable */
+.price {
+  color: hsl(140, 60%, 30%);
+  font-weight: bold;
+}
+
+/* ID selector – one unique element */
+#offer-banner {
+  background: rgb(255, 214, 102);
+  padding: 1rem;
+  text-align: center;
+}
+
+/* Descendant selector: links inside nav only */
+nav a {
+  color: #7a3e00;
+  text-decoration: none;
+}
+
+/* Pseudo-classes: link states (LoVe HAte order) */
+nav a:hover,
+nav a:focus {
+  text-decoration: underline;
+}
+
+/* Attribute selector: external links */
+a[target="_blank"]::after {
+  content: " ↗";
+}
+
+/* Pseudo-element: style the first line of the intro */
+.intro::first-line {
+  font-variant: small-caps;
+}
+
+/* Relative units scale with the user's font settings */
+.container {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 0 5%;
+}
