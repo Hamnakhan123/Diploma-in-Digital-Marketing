@@ -13,7 +13,7 @@ Term 1 builds the base every marketer needs: how marketing works, how websites a
 | 3 | [Introduction to SEO](03-introduction-to-seo/README.md) | 8 | [Practice test](03-introduction-to-seo/practice-test.md) |
 | 4 | [Search and Display Marketing](04-search-and-display-marketing/README.md) | 5 | [Practice test](04-search-and-display-marketing/practice-test.md) |
 | 5 | [Social Media Marketing](05-social-media-marketing/README.md) | 7 | [Practice test](05-social-media-marketing/practice-test.md) |
-| 6 | Email Marketing *(coming soon)* | 3 | – |
+| 6 | [Email Marketing](06-email-marketing/README.md) | 3 | [Practice test](06-email-marketing/practice-test.md) |
 | 7 | Mobile Marketing *(coming soon)* | 4 | – |
 | 8 | Analytics *(coming soon)* | 5 | – |
 | 9 | Smart Digital Marketing with AI *(coming soon)* | 5 | – |
