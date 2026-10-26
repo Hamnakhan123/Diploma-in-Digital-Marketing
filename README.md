@@ -122,7 +122,17 @@ flowchart LR
 
 </details>
 
-- Module 6 · Email Marketing *(coming soon)*
+<details>
+<summary><b>Module 6 · Email Marketing</b> (3 sessions)</summary>
+
+- 📘 [Module overview & cheat-sheet](term-1/06-email-marketing/README.md)
+- Session 1 · [Fundamentals of Email Marketing](term-1/06-email-marketing/session-01-email-marketing-fundamentals.md)
+- Session 2 · [Building an Email Marketing Strategy](term-1/06-email-marketing/session-02-building-email-strategy.md)
+- Session 3 · [Measuring Email Success and AI Tools](term-1/06-email-marketing/session-03-email-metrics-and-ai-tools.md)
+- 📝 [Practice test](term-1/06-email-marketing/practice-test.md)
+
+</details>
+
 - Module 7 · Mobile Marketing *(coming soon)*
 - Module 8 · Analytics *(coming soon)*
 - Module 9 · Smart Digital Marketing with AI *(coming soon)*
