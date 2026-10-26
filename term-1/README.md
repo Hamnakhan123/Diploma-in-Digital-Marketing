@@ -15,7 +15,7 @@ Term 1 builds the base every marketer needs: how marketing works, how websites a
 | 5 | [Social Media Marketing](05-social-media-marketing/README.md) | 7 | [Practice test](05-social-media-marketing/practice-test.md) |
 | 6 | [Email Marketing](06-email-marketing/README.md) | 3 | [Practice test](06-email-marketing/practice-test.md) |
 | 7 | [Mobile Marketing](07-mobile-marketing/README.md) | 4 | [Practice test](07-mobile-marketing/practice-test.md) |
-| 8 | Analytics *(coming soon)* | 5 | – |
+| 8 | [Analytics](08-analytics/README.md) | 5 | [Practice test](08-analytics/practice-test.md) |
 | 9 | Smart Digital Marketing with AI *(coming soon)* | 5 | – |
 
 🎓 This term ends with a **Capstone Project** – see [capstone/README.md](../capstone/README.md).
