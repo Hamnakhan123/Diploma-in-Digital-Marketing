@@ -133,7 +133,18 @@ flowchart LR
 
 </details>
 
-- Module 7 · Mobile Marketing *(coming soon)*
+<details>
+<summary><b>Module 7 · Mobile Marketing</b> (4 sessions)</summary>
+
+- 📘 [Module overview & cheat-sheet](term-1/07-mobile-marketing/README.md)
+- Session 1 · [Introduction to Mobile Marketing](term-1/07-mobile-marketing/session-01-introduction-to-mobile-marketing.md)
+- Session 2 · [Developing Mobile Marketing Strategies](term-1/07-mobile-marketing/session-02-mobile-marketing-strategy.md)
+- Session 3 · [Advanced Mobile Channels and Techniques](term-1/07-mobile-marketing/session-03-advanced-mobile-channels.md)
+- Session 4 · [AI Tools in Mobile Marketing](term-1/07-mobile-marketing/session-04-ai-tools-in-mobile-marketing.md)
+- 📝 [Practice test](term-1/07-mobile-marketing/practice-test.md)
+
+</details>
+
 - Module 8 · Analytics *(coming soon)*
 - Module 9 · Smart Digital Marketing with AI *(coming soon)*
 
