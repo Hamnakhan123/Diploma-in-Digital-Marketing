@@ -145,7 +145,19 @@ flowchart LR
 
 </details>
 
-- Module 8 · Analytics *(coming soon)*
+<details>
+<summary><b>Module 8 · Analytics</b> (5 sessions)</summary>
+
+- 📘 [Module overview & cheat-sheet](term-1/08-analytics/README.md)
+- Session 1 · [Basics of Digital Marketing Analytics](term-1/08-analytics/session-01-basics-of-marketing-analytics.md)
+- Session 2 · [Web Analytics Tools](term-1/08-analytics/session-02-web-analytics-tools.md)
+- Session 3 · [Measuring and Optimizing Campaign Performance](term-1/08-analytics/session-03-measuring-campaign-performance.md)
+- Session 4 · [Social Media Metrics and Content Engagement](term-1/08-analytics/session-04-social-metrics-and-engagement.md)
+- Session 5 · [Visualizing Marketing Data Effectively](term-1/08-analytics/session-05-visualizing-marketing-data.md)
+- 📝 [Practice test](term-1/08-analytics/practice-test.md)
+
+</details>
+
 - Module 9 · Smart Digital Marketing with AI *(coming soon)*
 
 ### [Term 2 · Advanced Digital Marketing](term-2/README.md)
