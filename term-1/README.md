@@ -12,7 +12,7 @@ Term 1 builds the base every marketer needs: how marketing works, how websites a
 | 2 | [Essentials of Website Design and Development](02-website-design-and-development/README.md) | 5 | [Practice test](02-website-design-and-development/practice-test.md) |
 | 3 | [Introduction to SEO](03-introduction-to-seo/README.md) | 8 | [Practice test](03-introduction-to-seo/practice-test.md) |
 | 4 | [Search and Display Marketing](04-search-and-display-marketing/README.md) | 5 | [Practice test](04-search-and-display-marketing/practice-test.md) |
-| 5 | Social Media Marketing *(coming soon)* | 7 | – |
+| 5 | [Social Media Marketing](05-social-media-marketing/README.md) | 7 | [Practice test](05-social-media-marketing/practice-test.md) |
 | 6 | Email Marketing *(coming soon)* | 3 | – |
 | 7 | Mobile Marketing *(coming soon)* | 4 | – |
 | 8 | Analytics *(coming soon)* | 5 | – |
