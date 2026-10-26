@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GA4 event tracking demo · Zari Shoes</title>
+  <!-- Prepared by Hamna Zahid Khan, Junior Lecturer.
+       Replace G-XXXXXXXXXX with your own Measurement ID (Admin > Data streams > Web).
+       In a real site, load this tag only after the visitor accepts analytics cookies where the law requires consent. -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    // Consent Mode: start with analytics and ads storage denied until the banner is accepted
+    gtag('consent', 'default', {analytics_storage: 'denied', ad_storage: 'denied',
+                                ad_user_data: 'denied', ad_personalization: 'denied'});
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX', {debug_mode: true}); // debug_mode shows events in DebugView
+  </script>
+  <style>
+    body{font-family:system-ui,sans-serif;max-width:640px;margin:2rem auto;padding:0 1rem;background:#0A0716;color:#F5EEFF}
+    button{background:#FF6B1A;color:#0A0716;border:0;padding:.7rem 1.2rem;border-radius:8px;font-weight:700;margin:.3rem;cursor:pointer}
+    #log{background:#1a1430;padding:1rem;border-radius:8px;font-family:monospace;font-size:.85rem;min-height:4rem}
+  </style>
+</head>
+<body>
+  <h1>Khussa · Red Velvet · PKR 4,800</h1>
+  <p id="banner">We use analytics cookies to improve this site. <button id="accept">Accept</button></p>
+  <button id="cart">Add to cart</button>
+  <button id="buy">Buy now</button>
+  <button id="lead">Ask on WhatsApp</button>
+  <h3>Events sent</h3>
+  <div id="log"></div>
+  <script>
+    const item = {item_id: 'KH-RV-38', item_name: 'Red Velvet Khussa', item_category: 'Footwear', price: 4800, quantity: 1};
+    const log = (name, params) => {
+      gtag('event', name, params);
+      document.getElementById('log').innerHTML += name + ' ' + JSON.stringify(params) + '<br>';
+    };
+    document.getElementById('accept').onclick = () => {
+      gtag('consent', 'update', {analytics_storage: 'granted'});
+      document.getElementById('banner').textContent = 'Thanks - analytics enabled.';
+    };
+    log('view_item', {currency: 'PKR', value: 4800, items: [item]});           // recommended e-commerce event
+    document.getElementById('cart').onclick = () => log('add_to_cart', {currency: 'PKR', value: 4800, items: [item]});
+    document.getElementById('buy').onclick = () => log('purchase', {
+      transaction_id: 'T' + Date.now(), currency: 'PKR', value: 5050, shipping: 250, items: [item]});
+    document.getElementById('lead').onclick = () => log('generate_lead', {currency: 'PKR', value: 500, method: 'whatsapp'});
+  </script>
+</body>
+</html>
