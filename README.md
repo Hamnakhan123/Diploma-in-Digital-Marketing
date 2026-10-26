@@ -94,7 +94,19 @@ flowchart LR
 
 </details>
 
-- Module 4 · Search and Display Marketing *(coming soon)*
+<details>
+<summary><b>Module 4 · Search and Display Marketing</b> (5 sessions)</summary>
+
+- 📘 [Module overview & cheat-sheet](term-1/04-search-and-display-marketing/README.md)
+- Session 1 · [History of Search Advertising](term-1/04-search-and-display-marketing/session-01-history-of-search-advertising.md)
+- Session 2 · [Google Ads and How Search Marketing Works](term-1/04-search-and-display-marketing/session-02-google-ads-search-study.md)
+- Session 3 · [Google Ads Campaign Types, Challenges and Privacy](term-1/04-search-and-display-marketing/session-03-google-ads-campaign-types.md)
+- Session 4 · [Google Analytics](term-1/04-search-and-display-marketing/session-04-google-analytics.md)
+- Session 5 · [SEO and Competitor Tools: Semrush, SpyFu, WordStream](term-1/04-search-and-display-marketing/session-05-seo-tools-semrush-spyfu-wordstream.md)
+- 📝 [Practice test](term-1/04-search-and-display-marketing/practice-test.md)
+
+</details>
+
 - Module 5 · Social Media Marketing *(coming soon)*
 - Module 6 · Email Marketing *(coming soon)*
 - Module 7 · Mobile Marketing *(coming soon)*
