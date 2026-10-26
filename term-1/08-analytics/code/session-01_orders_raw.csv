@@ -1,0 +1,613 @@
+order_id,channel,order_value,city
+1001,TikTok,4210.0,Islamabad
+1002,WhatsApp,4340.0,Faisalabad
+1003,Email,6090.0,Faisalabad
+1004,Instagram,3200.0,Islamabad
+1005,Google Search,4130.0,Islamabad
+1006,WhatsApp,5150.0,Islamabad
+1007,Instagram,4960.0,Lahore
+1008,Email,6190.0,Lahore
+1009,Email,5320.0,Islamabad
+1010,Google Search,3800.0,Lahore
+1011,Google Search,4670.0,Lahore
+1012,Instagram,2900.0,Faisalabad
+1013,Instagram,2070.0,Karachi
+1014,Google Search,4950.0,Karachi
+1015,Google Search,4130.0,Faisalabad
+1016,TikTok,4100.0,Lahore
+1017,WhatsApp,1990.0,Faisalabad
+1018,Email,4330.0,Faisalabad
+1019,TikTok,2920.0,Lahore
+1020,WhatsApp,3080.0,Lahore
+1021,Instagram,1270.0,Lahore
+1022,Instagram,3760.0,Faisalabad
+1023,TikTok,4870.0,Lahore
+1024,Instagram,4700.0,Lahore
+1025,Instagram,3420.0,Islamabad
+1026,Google Search,4180.0,Karachi
+1027,Google Search,5180.0,Karachi
+1028,WhatsApp,610.0,Islamabad
+1029,TikTok,3540.0,Lahore
+1030,Google Search,4910.0,Lahore
+1031,Google Search,5090.0,Karachi
+1032,Instagram,6410.0,Lahore
+1033,Instagram,5680.0,Karachi
+1034,Instagram,4610.0,Islamabad
+1035,TikTok,4090.0,Karachi
+1036,Instagram,5220.0,Karachi
+1037,Google Search,3500.0,Lahore
+1038,Instagram,4150.0,Lahore
+1039,Email,5980.0,Islamabad
+1040,Instagram,6740.0,Lahore
+1041,Instagram,3990.0,Karachi
+1042,WhatsApp,4140.0,Lahore
+1043,Google Search,4460.0,Faisalabad
+1044,Email,6550.0,Lahore
+1045,TikTok,3660.0,Lahore
+1046,TikTok,5610.0,Karachi
+1047,Instagram,2940.0,Islamabad
+1048,Google Search,3960.0,Faisalabad
+1049,Google Search,3940.0,Islamabad
+1050,WhatsApp,5220.0,Lahore
+1051,Google Search,5560.0,Lahore
+1052,TikTok,1740.0,Islamabad
+1053,Instagram,3010.0,Faisalabad
+1054,Google Search,4640.0,Lahore
+1055,Google Search,3340.0,Islamabad
+1056,Instagram,2220.0,Lahore
+1057,Email,6150.0,Karachi
+1058,Google Search,4840.0,Karachi
+1059,WhatsApp,4840.0,Karachi
+1060,TikTok,3080.0,Faisalabad
+1061,TikTok,5040.0,Karachi
+1062,TikTok,3390.0,Lahore
+1063,TikTok,5130.0,Islamabad
+1064,Instagram,3010.0,Karachi
+1065,Google Search,3090.0,Lahore
+1066,Instagram,4470.0,Lahore
+1067,Google Search,3290.0,Karachi
+1068,Instagram,5080.0,Lahore
+1069,WhatsApp,4540.0,Lahore
+1070,Instagram,3000.0,Lahore
+1071,TikTok,3790.0,Lahore
+1072,Google Search,3740.0,Lahore
+1073,WhatsApp,5390.0,Islamabad
+1074,TikTok,2880.0,Islamabad
+1075,Instagram,3630.0,Lahore
+1076,Email,6370.0,Karachi
+1077,WhatsApp,7110.0,Faisalabad
+1078,WhatsApp,6800.0,Lahore
+1079,TikTok,3780.0,Karachi
+1080,Instagram,4480.0,Lahore
+1081,Instagram,6190.0,Karachi
+1082,WhatsApp,4040.0,Faisalabad
+1083,TikTok,2430.0,Lahore
+1084,Instagram,4350.0,Faisalabad
+1085,,4790.0,Karachi
+1086,TikTok,2620.0,Islamabad
+1087,TikTok,1560.0,Karachi
+1088,Google Search,2330.0,Islamabad
+1089,Google Search,5070.0,Lahore
+1090,Instagram,3210.0,Islamabad
+1091,Instagram,4020.0,Lahore
+1092,WhatsApp,4480.0,Karachi
+1093,Google Search,5000.0,Karachi
+1094,Google Search,3760.0,Lahore
+1095,Google Search,4850.0,Lahore
+1096,Email,3640.0,Islamabad
+1097,Instagram,3730.0,Islamabad
+1098,Google Search,2870.0,Karachi
+1099,Instagram,5670.0,Lahore
+1100,Instagram,4160.0,Karachi
+1101,WhatsApp,3240.0,Lahore
+1102,TikTok,3240.0,Karachi
+1103,Google Search,3910.0,Karachi
+1104,Google Search,5110.0,Karachi
+1105,WhatsApp,2130.0,Lahore
+1106,Google Search,2850.0,Lahore
+1107,TikTok,3210.0,Islamabad
+1108,TikTok,6990.0,Karachi
+1109,Google Search,5440.0,Islamabad
+1110,,4060.0,Lahore
+1111,Email,5730.0,Lahore
+1112,WhatsApp,6870.0,Karachi
+1113,Instagram,3900.0,Karachi
+1114,WhatsApp,3720.0,Faisalabad
+1115,Instagram,5780.0,Islamabad
+1116,Email,5440.0,Lahore
+1117,Email,5670.0,Islamabad
+1118,Instagram,3540.0,Lahore
+1119,Google Search,6700.0,Karachi
+1120,Email,7020.0,Lahore
+1121,Instagram,4940.0,Lahore
+1122,TikTok,4590.0,Karachi
+1123,Email,2160.0,Karachi
+1124,Google Search,5030.0,Karachi
+1125,TikTok,3450.0,Karachi
+1126,Instagram,4760.0,Karachi
+1127,Instagram,5090.0,Lahore
+1128,Google Search,3760.0,Karachi
+1129,Instagram,2000.0,Lahore
+1130,Google Search,4680.0,Karachi
+1131,WhatsApp,3240.0,Karachi
+1132,TikTok,3270.0,Karachi
+1133,Google Search,-1.0,Lahore
+1134,Instagram,3760.0,Karachi
+1135,WhatsApp,1200.0,Lahore
+1136,Google Search,5780.0,Lahore
+1137,WhatsApp,4530.0,Lahore
+1138,Google Search,5640.0,Karachi
+1139,Google Search,6770.0,Islamabad
+1140,WhatsApp,4230.0,Lahore
+1141,TikTok,1360.0,Lahore
+1142,TikTok,2540.0,Karachi
+1143,Google Search,2630.0,Lahore
+1144,WhatsApp,3550.0,Islamabad
+1145,Google Search,4300.0,Lahore
+1146,WhatsApp,1600.0,Lahore
+1147,Instagram,4650.0,Karachi
+1148,Google Search,2240.0,Lahore
+1149,Google Search,4590.0,Lahore
+1150,WhatsApp,4060.0,Lahore
+1151,Instagram,3790.0,Islamabad
+1152,Email,4710.0,Faisalabad
+1153,TikTok,3000.0,Lahore
+1154,TikTok,2900.0,Islamabad
+1155,TikTok,1510.0,Lahore
+1156,WhatsApp,4160.0,Karachi
+1157,Google Search,6600.0,Lahore
+1158,Google Search,6770.0,Lahore
+1159,Instagram,5920.0,Islamabad
+1160,Instagram,5120.0,Islamabad
+1161,Instagram,3320.0,Lahore
+1162,WhatsApp,6080.0,Lahore
+1163,Email,4730.0,Islamabad
+1164,Instagram,4110.0,Faisalabad
+1165,TikTok,3320.0,Karachi
+1166,Google Search,4320.0,Islamabad
+1167,TikTok,3130.0,Faisalabad
+1168,TikTok,3590.0,Islamabad
+1169,Google Search,2790.0,Karachi
+1170,WhatsApp,3710.0,Lahore
+1171,Google Search,7160.0,Lahore
+1172,TikTok,3610.0,Karachi
+1173,TikTok,3390.0,Faisalabad
+1174,Instagram,4890.0,Lahore
+1175,Instagram,5120.0,Lahore
+1176,Google Search,2750.0,Lahore
+1177,Email,4530.0,Karachi
+1178,Email,5990.0,Lahore
+1179,TikTok,4050.0,Islamabad
+1180,Instagram,4360.0,Lahore
+1181,WhatsApp,6220.0,Karachi
+1182,Email,3920.0,Karachi
+1183,WhatsApp,4310.0,Karachi
+1184,Google Search,3520.0,Lahore
+1185,WhatsApp,6140.0,Lahore
+1186,Instagram,1660.0,Islamabad
+1187,Instagram,3330.0,Lahore
+1188,Instagram,3510.0,Lahore
+1189,Instagram,5060.0,Karachi
+1190,Instagram,4990.0,Lahore
+1191,Instagram,6010.0,Islamabad
+1192,TikTok,1650.0,Islamabad
+1193,Instagram,5180.0,Faisalabad
+1194,TikTok,3320.0,Islamabad
+1195,Instagram,3330.0,Karachi
+1196,TikTok,4400.0,Lahore
+1197,Instagram,3000.0,Islamabad
+1198,Google Search,1500.0,Islamabad
+1199,WhatsApp,3720.0,Islamabad
+1200,Google Search,2250.0,Karachi
+1201,Email,3960.0,Islamabad
+1202,TikTok,4180.0,Lahore
+1203,TikTok,4110.0,Karachi
+1204,Instagram,6260.0,Karachi
+1205,TikTok,3440.0,Lahore
+1206,Instagram,2210.0,Lahore
+1207,Email,3820.0,Lahore
+1208,WhatsApp,3000.0,Karachi
+1209,WhatsApp,2620.0,Lahore
+1210,Instagram,4770.0,Lahore
+1211,Google Search,3360.0,Islamabad
+1212,Google Search,1630.0,Karachi
+1213,,5110.0,Karachi
+1214,TikTok,3560.0,Faisalabad
+1215,Email,5260.0,Lahore
+1216,Google Search,4340.0,Karachi
+1217,WhatsApp,5020.0,Lahore
+1218,Email,4850.0,Lahore
+1219,Instagram,5810.0,Faisalabad
+1220,Email,5350.0,Lahore
+1221,WhatsApp,4710.0,Islamabad
+1222,Instagram,4730.0,Islamabad
+1223,TikTok,1810.0,Karachi
+1224,TikTok,3490.0,Islamabad
+1225,TikTok,3360.0,Lahore
+1226,Instagram,4470.0,Lahore
+1227,TikTok,1930.0,Karachi
+1228,TikTok,5820.0,Lahore
+1229,Email,4940.0,Lahore
+1230,Email,3230.0,Lahore
+1231,Google Search,1980.0,Faisalabad
+1232,TikTok,3330.0,Lahore
+1233,WhatsApp,4080.0,Lahore
+1234,WhatsApp,3270.0,Faisalabad
+1235,Instagram,4320.0,Lahore
+1236,Instagram,3370.0,Faisalabad
+1237,TikTok,4420.0,Islamabad
+1238,Instagram,3260.0,Karachi
+1239,TikTok,3650.0,Lahore
+1240,WhatsApp,5470.0,Lahore
+1241,Google Search,7540.0,Lahore
+1242,Instagram,2890.0,Lahore
+1243,Google Search,3600.0,Lahore
+1244,TikTok,2610.0,Lahore
+1245,Instagram,-1.0,Faisalabad
+1246,Google Search,2710.0,Karachi
+1247,Instagram,3570.0,Faisalabad
+1248,TikTok,3660.0,Islamabad
+1249,Email,3530.0,Lahore
+1250,Google Search,2960.0,Karachi
+1251,Google Search,3580.0,Lahore
+1252,Google Search,1470.0,Lahore
+1253,Instagram,2320.0,Faisalabad
+1254,Instagram,3660.0,Lahore
+1255,Google Search,4390.0,Lahore
+1256,Google Search,3960.0,Lahore
+1257,Instagram,1890.0,Karachi
+1258,Email,4200.0,Karachi
+1259,TikTok,4740.0,Lahore
+1260,Instagram,4920.0,Islamabad
+1261,Instagram,4100.0,Lahore
+1262,Email,3650.0,Islamabad
+1263,Instagram,5020.0,Karachi
+1264,Instagram,3450.0,Karachi
+1265,Instagram,2680.0,Karachi
+1266,Instagram,3160.0,Karachi
+1267,WhatsApp,6080.0,Faisalabad
+1268,Instagram,4490.0,Islamabad
+1269,Google Search,5710.0,Lahore
+1270,Email,4180.0,Karachi
+1271,TikTok,4920.0,Lahore
+1272,Instagram,3420.0,Lahore
+1273,Google Search,4000.0,Lahore
+1274,WhatsApp,7430.0,Lahore
+1275,Google Search,5200.0,Faisalabad
+1276,TikTok,3050.0,Islamabad
+1277,Instagram,4090.0,Islamabad
+1278,TikTok,4120.0,Karachi
+1279,Email,6370.0,Lahore
+1280,Email,4160.0,Lahore
+1281,TikTok,1440.0,Lahore
+1282,Google Search,3840.0,Lahore
+1283,Instagram,4220.0,Lahore
+1284,Google Search,4340.0,Islamabad
+1285,Email,6510.0,Lahore
+1286,Instagram,4610.0,Lahore
+1287,Instagram,5260.0,Karachi
+1288,Google Search,2770.0,Karachi
+1289,TikTok,4830.0,Karachi
+1290,WhatsApp,6930.0,Islamabad
+1291,Instagram,5200.0,Lahore
+1292,Instagram,4530.0,Lahore
+1293,Email,5000.0,Lahore
+1294,TikTok,6020.0,Lahore
+1295,TikTok,2490.0,Islamabad
+1296,WhatsApp,4060.0,Faisalabad
+1297,WhatsApp,4800.0,Karachi
+1298,Email,5770.0,Lahore
+1299,Email,4230.0,Lahore
+1300,Google Search,4600.0,Islamabad
+1301,TikTok,3340.0,Faisalabad
+1302,Instagram,4360.0,Karachi
+1303,Email,4630.0,Lahore
+1304,Email,3320.0,Lahore
+1305,TikTok,3670.0,Karachi
+1306,Google Search,5340.0,Islamabad
+1307,Google Search,2940.0,Lahore
+1308,Google Search,3890.0,Lahore
+1309,Instagram,5060.0,Lahore
+1310,Email,3410.0,Lahore
+1311,Google Search,4440.0,Islamabad
+1312,Google Search,2820.0,Karachi
+1313,Google Search,5680.0,Faisalabad
+1314,TikTok,6710.0,Lahore
+1315,Google Search,6830.0,Lahore
+1316,Email,4520.0,Islamabad
+1317,WhatsApp,5160.0,Karachi
+1318,Google Search,4360.0,Lahore
+1319,Instagram,4330.0,Lahore
+1320,Email,6810.0,Karachi
+1321,WhatsApp,2490.0,Karachi
+1322,Instagram,5570.0,Karachi
+1323,TikTok,3640.0,Lahore
+1324,Email,6630.0,Faisalabad
+1325,WhatsApp,4440.0,Karachi
+1326,Instagram,3330.0,Islamabad
+1327,Instagram,4560.0,Karachi
+1328,WhatsApp,5160.0,Lahore
+1329,Instagram,4250.0,Lahore
+1330,Instagram,4830.0,Lahore
+1331,TikTok,3020.0,Lahore
+1332,Google Search,1430.0,Lahore
+1333,Email,5970.0,Lahore
+1334,Instagram,5110.0,Lahore
+1335,WhatsApp,4390.0,Lahore
+1336,Instagram,4290.0,Islamabad
+1337,Email,6150.0,Lahore
+1338,Instagram,3610.0,Lahore
+1339,Google Search,3280.0,Islamabad
+1340,Instagram,3950.0,Karachi
+1341,Google Search,5750.0,Lahore
+1342,Google Search,2400.0,Lahore
+1343,TikTok,5250.0,Karachi
+1344,Google Search,3370.0,Lahore
+1345,Instagram,2770.0,Islamabad
+1346,WhatsApp,5840.0,Islamabad
+1347,WhatsApp,4070.0,Lahore
+1348,WhatsApp,2510.0,Lahore
+1349,Instagram,3730.0,Islamabad
+1350,Google Search,5410.0,Lahore
+1351,Instagram,5750.0,Karachi
+1352,Instagram,3640.0,Islamabad
+1353,Instagram,4730.0,Islamabad
+1354,Google Search,5130.0,Islamabad
+1355,Instagram,3360.0,Karachi
+1356,Instagram,4660.0,Islamabad
+1357,WhatsApp,4160.0,Karachi
+1358,Google Search,3500.0,Lahore
+1359,Instagram,3560.0,Karachi
+1360,TikTok,3790.0,Lahore
+1361,Instagram,4240.0,Islamabad
+1362,Google Search,3460.0,Islamabad
+1363,Instagram,3650.0,Lahore
+1364,Google Search,5650.0,Lahore
+1365,TikTok,3980.0,Lahore
+1366,Google Search,5350.0,Karachi
+1367,Google Search,5760.0,Faisalabad
+1368,Email,5570.0,Faisalabad
+1369,WhatsApp,7150.0,Faisalabad
+1370,Instagram,3130.0,Islamabad
+1371,Instagram,5250.0,Karachi
+1372,Instagram,3790.0,Lahore
+1373,WhatsApp,6610.0,Lahore
+1374,WhatsApp,6410.0,Lahore
+1375,Instagram,1660.0,Islamabad
+1376,WhatsApp,2940.0,Lahore
+1377,Instagram,5060.0,Lahore
+1378,Google Search,5230.0,Lahore
+1379,Google Search,5160.0,Lahore
+1380,WhatsApp,4110.0,Islamabad
+1381,Instagram,4790.0,Lahore
+1382,Google Search,5050.0,Lahore
+1383,TikTok,3600.0,Islamabad
+1384,Instagram,5540.0,Islamabad
+1385,Instagram,1260.0,Karachi
+1386,Google Search,5020.0,Karachi
+1387,WhatsApp,2860.0,Lahore
+1388,Email,6050.0,Islamabad
+1389,Email,4500.0,Islamabad
+1390,Email,3640.0,Karachi
+1391,TikTok,4190.0,Lahore
+1392,Email,3620.0,Lahore
+1393,TikTok,2510.0,Lahore
+1394,TikTok,1660.0,Lahore
+1395,Google Search,4170.0,Lahore
+1396,Instagram,4850.0,Lahore
+1397,Email,6130.0,Lahore
+1398,Instagram,4020.0,Lahore
+1399,WhatsApp,5560.0,Lahore
+1400,TikTok,3720.0,Lahore
+1401,Google Search,4080.0,Lahore
+1402,WhatsApp,4950.0,Karachi
+1403,Instagram,5580.0,Karachi
+1404,,3760.0,Lahore
+1405,Instagram,3880.0,Islamabad
+1406,WhatsApp,3990.0,Karachi
+1407,TikTok,3810.0,Karachi
+1408,Email,3630.0,Islamabad
+1409,Instagram,5540.0,Islamabad
+1410,,4280.0,Islamabad
+1411,TikTok,4300.0,Islamabad
+1412,TikTok,2630.0,Karachi
+1413,WhatsApp,4670.0,Islamabad
+1414,Google Search,4710.0,Lahore
+1415,Google Search,3650.0,Karachi
+1416,TikTok,6330.0,Lahore
+1417,Email,5280.0,Lahore
+1418,Google Search,6510.0,Lahore
+1419,TikTok,4950.0,Lahore
+1420,Instagram,3340.0,Lahore
+1421,TikTok,3200.0,Karachi
+1422,Email,5370.0,Islamabad
+1423,Instagram,4280.0,Islamabad
+1424,TikTok,3760.0,Lahore
+1425,Instagram,3830.0,Karachi
+1426,WhatsApp,1850.0,Islamabad
+1427,Google Search,3910.0,Lahore
+1428,Google Search,1320.0,Lahore
+1429,TikTok,4180.0,Lahore
+1430,Google Search,3260.0,Karachi
+1431,TikTok,2770.0,Lahore
+1432,Instagram,3910.0,Karachi
+1433,TikTok,4050.0,Lahore
+1434,TikTok,1840.0,Karachi
+1435,WhatsApp,1930.0,Karachi
+1436,Instagram,2810.0,Karachi
+1437,Google Search,1550.0,Lahore
+1438,TikTok,2440.0,Islamabad
+1439,TikTok,5770.0,Islamabad
+1440,Instagram,2830.0,Islamabad
+1441,TikTok,4550.0,Lahore
+1442,Instagram,2420.0,Faisalabad
+1443,Instagram,4590.0,Karachi
+1444,WhatsApp,3780.0,Lahore
+1445,Instagram,4120.0,Lahore
+1446,Google Search,4940.0,Karachi
+1447,Email,7080.0,Karachi
+1448,TikTok,3950.0,Lahore
+1449,TikTok,3860.0,Lahore
+1450,Email,3530.0,Lahore
+1451,Google Search,4960.0,Islamabad
+1452,TikTok,3380.0,Lahore
+1453,Email,5880.0,Lahore
+1454,TikTok,-1.0,Karachi
+1455,TikTok,5960.0,Lahore
+1456,Google Search,1620.0,Lahore
+1457,TikTok,3310.0,Faisalabad
+1458,,5350.0,Lahore
+1459,TikTok,3240.0,Karachi
+1460,Google Search,3170.0,Lahore
+1461,Google Search,3850.0,Lahore
+1462,Email,3010.0,Faisalabad
+1463,Google Search,4350.0,Faisalabad
+1464,Google Search,7370.0,Lahore
+1465,Email,6290.0,Lahore
+1466,Google Search,2760.0,Lahore
+1467,Email,3660.0,Lahore
+1468,Email,4270.0,Karachi
+1469,Google Search,5510.0,Islamabad
+1470,TikTok,2630.0,Islamabad
+1471,Instagram,3300.0,Karachi
+1472,Google Search,5350.0,Lahore
+1473,WhatsApp,5320.0,Lahore
+1474,TikTok,3210.0,Karachi
+1475,TikTok,2250.0,Islamabad
+1476,TikTok,1690.0,Lahore
+1477,TikTok,2790.0,Lahore
+1478,TikTok,800.0,Islamabad
+1479,Google Search,5170.0,Lahore
+1480,Instagram,3380.0,Lahore
+1481,Instagram,4830.0,Lahore
+1482,Instagram,6630.0,Faisalabad
+1483,Google Search,5720.0,Lahore
+1484,WhatsApp,2700.0,Lahore
+1485,Google Search,5330.0,Lahore
+1486,Google Search,5710.0,Karachi
+1487,Google Search,3230.0,Lahore
+1488,TikTok,2460.0,Islamabad
+1489,WhatsApp,4060.0,Lahore
+1490,WhatsApp,2120.0,Islamabad
+1491,Google Search,6110.0,Lahore
+1492,Instagram,1070.0,Islamabad
+1493,WhatsApp,2760.0,Lahore
+1494,Google Search,3850.0,Islamabad
+1495,TikTok,3400.0,Islamabad
+1496,Instagram,4420.0,Lahore
+1497,WhatsApp,4550.0,Lahore
+1498,Google Search,3920.0,Karachi
+1499,Google Search,5680.0,Karachi
+1500,Instagram,1420.0,Karachi
+1501,,4200.0,Islamabad
+1502,Email,3870.0,Karachi
+1503,Email,4970.0,Karachi
+1504,Google Search,4490.0,Karachi
+1505,Email,3610.0,Karachi
+1506,Google Search,3370.0,Lahore
+1507,Google Search,5230.0,Lahore
+1508,Google Search,4650.0,Lahore
+1509,Instagram,3320.0,Lahore
+1510,Google Search,6850.0,Lahore
+1511,TikTok,6700.0,Islamabad
+1512,Email,2900.0,Lahore
+1513,Instagram,4590.0,Lahore
+1514,TikTok,6960.0,Karachi
+1515,Email,5820.0,Lahore
+1516,Google Search,4490.0,Lahore
+1517,Instagram,3930.0,Lahore
+1518,TikTok,3000.0,Karachi
+1519,Instagram,3920.0,Karachi
+1520,TikTok,2980.0,Faisalabad
+1521,Google Search,5170.0,Islamabad
+1522,TikTok,3180.0,Lahore
+1523,Instagram,3630.0,Karachi
+1524,Google Search,2640.0,Lahore
+1525,,4140.0,Lahore
+1526,TikTok,2540.0,Faisalabad
+1527,Instagram,3970.0,Lahore
+1528,WhatsApp,5550.0,Lahore
+1529,Instagram,4680.0,Karachi
+1530,Google Search,4860.0,Karachi
+1531,Instagram,4660.0,Lahore
+1532,Instagram,4280.0,Faisalabad
+1533,Google Search,4030.0,Lahore
+1534,Email,4400.0,Karachi
+1535,TikTok,4690.0,Lahore
+1536,Instagram,2790.0,Islamabad
+1537,,5940.0,Lahore
+1538,Google Search,4240.0,Lahore
+1539,Email,3830.0,Islamabad
+1540,Google Search,3560.0,Faisalabad
+1541,WhatsApp,3320.0,Faisalabad
+1542,TikTok,3910.0,Islamabad
+1543,TikTok,2770.0,Lahore
+1544,Email,6280.0,Lahore
+1545,Email,3780.0,Karachi
+1546,Google Search,1250.0,Lahore
+1547,Instagram,3250.0,Faisalabad
+1548,Google Search,1590.0,Lahore
+1549,Google Search,4150.0,Lahore
+1550,Instagram,5580.0,Lahore
+1551,Google Search,5040.0,Lahore
+1552,TikTok,1960.0,Karachi
+1553,Instagram,3210.0,Lahore
+1554,Instagram,6510.0,Islamabad
+1555,Instagram,4610.0,Karachi
+1556,Instagram,4210.0,Lahore
+1557,WhatsApp,5570.0,Islamabad
+1558,Instagram,7390.0,Islamabad
+1559,Instagram,5890.0,Lahore
+1560,Instagram,4380.0,Islamabad
+1561,Google Search,4660.0,Faisalabad
+1562,Instagram,5000.0,Karachi
+1563,Google Search,3400.0,Lahore
+1564,Instagram,2820.0,Faisalabad
+1565,Instagram,4270.0,Faisalabad
+1566,Email,3570.0,Lahore
+1567,Instagram,4120.0,Lahore
+1568,TikTok,3820.0,Islamabad
+1569,Google Search,7240.0,Karachi
+1570,Google Search,3090.0,Lahore
+1571,Email,4640.0,Karachi
+1572,Instagram,3990.0,Lahore
+1573,WhatsApp,4770.0,Faisalabad
+1574,WhatsApp,5560.0,Lahore
+1575,TikTok,3060.0,Lahore
+1576,Instagram,3130.0,Lahore
+1577,TikTok,1570.0,Lahore
+1578,TikTok,2500.0,Faisalabad
+1579,Email,5500.0,Lahore
+1580,Instagram,4260.0,Karachi
+1581,WhatsApp,2880.0,Faisalabad
+1582,WhatsApp,3720.0,Lahore
+1583,Instagram,4240.0,Lahore
+1584,Google Search,4850.0,Islamabad
+1585,Instagram,3430.0,Lahore
+1586,Email,4470.0,Faisalabad
+1587,WhatsApp,1840.0,Islamabad
+1588,WhatsApp,2700.0,Lahore
+1589,TikTok,5800.0,Karachi
+1590,TikTok,860.0,Karachi
+1591,TikTok,3260.0,Karachi
+1592,TikTok,3980.0,Lahore
+1593,WhatsApp,3710.0,Lahore
+1594,TikTok,2650.0,Lahore
+1595,Google Search,4120.0,Lahore
+1596,Google Search,4190.0,Lahore
+1597,Instagram,4090.0,Faisalabad
+1598,TikTok,1260.0,Islamabad
+1599,TikTok,3510.0,Lahore
+1600,Google Search,3090.0,Karachi
+1447,Email,7080.0,Karachi
+1405,Instagram,3880.0,Islamabad
+1510,Google Search,6850.0,Lahore
+1456,Google Search,1620.0,Lahore
+1202,TikTok,4180.0,Lahore
+1024,Instagram,4700.0,Lahore
+1416,TikTok,6330.0,Lahore
+1549,Google Search,4150.0,Lahore
+1067,Google Search,3290.0,Karachi
+1166,Google Search,4320.0,Islamabad
+1335,WhatsApp,4390.0,Lahore
+1330,Instagram,4830.0,Lahore
