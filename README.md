@@ -107,7 +107,21 @@ flowchart LR
 
 </details>
 
-- Module 5 · Social Media Marketing *(coming soon)*
+<details>
+<summary><b>Module 5 · Social Media Marketing</b> (7 sessions)</summary>
+
+- 📘 [Module overview & cheat-sheet](term-1/05-social-media-marketing/README.md)
+- Session 1 · [Impact of Social Media on Businesses](term-1/05-social-media-marketing/session-01-impact-of-social-media-on-business.md)
+- Session 2 · [Managing and Enhancing Social Media Presence](term-1/05-social-media-marketing/session-02-managing-social-media-presence.md)
+- Session 3 · [Fundamentals of Social Media Advertising](term-1/05-social-media-marketing/session-03-social-media-advertising.md)
+- Session 4 · [Social Listening and Copywriting](term-1/05-social-media-marketing/session-04-social-listening-and-copywriting.md)
+- Session 5 · [YouTube Marketing](term-1/05-social-media-marketing/session-05-youtube-marketing.md)
+- Session 6 · [Social Media ROI and Performance Metrics](term-1/05-social-media-marketing/session-06-social-roi-and-performance-metrics.md)
+- Session 7 · [A/B Split Testing and AI in Social Media](term-1/05-social-media-marketing/session-07-ab-testing-and-ai-in-social.md)
+- 📝 [Practice test](term-1/05-social-media-marketing/practice-test.md)
+
+</details>
+
 - Module 6 · Email Marketing *(coming soon)*
 - Module 7 · Mobile Marketing *(coming soon)*
 - Module 8 · Analytics *(coming soon)*
