@@ -219,7 +219,7 @@ Fahad Ali,fahad..ali@gmail.com,double_opt_in,active
 Noor Fatima,noor.fatima@yaho.com,double_opt_in,active
 Sales Team,sales@example-shop.pk,double_opt_in,active"""
 
-PATTERN = re.compile(r"^[a-z0-9](?:[a-z0-9._%+-]*[a-z0-9])?@[a-z0-9-]+(?:\.[a-z0-9-]+)*\.[a-z]{2,}$")
+PATTERN = re.compile(r"^[a-z0-9]+(?:[._%+-]+[a-z0-9]+)*@[a-z0-9-]+(?:\.[a-z0-9-]+)*\.[a-z]{2,}$")
 TYPOS = {"gmial.com": "gmail.com", "gmal.com": "gmail.com", "yaho.com": "yahoo.com", "hotmial.com": "hotmail.com", "outlok.com": "outlook.com"}
 ROLE = {"info", "sales", "admin", "support", "noreply", "contact"}
 OK_CONSENT = {"double_opt_in", "single_opt_in"}
