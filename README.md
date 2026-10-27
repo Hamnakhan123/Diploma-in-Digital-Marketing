@@ -158,7 +158,19 @@ flowchart LR
 
 </details>
 
-- Module 9 · Smart Digital Marketing with AI *(coming soon)*
+<details>
+<summary><b>Module 9 · Smart Digital Marketing with AI</b> (5 sessions)</summary>
+
+- 📘 [Module overview & cheat-sheet](term-1/09-smart-digital-marketing-with-ai/README.md)
+- Session 1 · [Introduction to AI in Marketing](term-1/09-smart-digital-marketing-with-ai/session-01-introduction-to-ai-in-marketing.md)
+- Session 2 · [Finding and Knowing Your Customers with AI](term-1/09-smart-digital-marketing-with-ai/session-02-knowing-customers-with-ai.md)
+- Session 3 · [Personalizing Marketing with AI](term-1/09-smart-digital-marketing-with-ai/session-03-personalizing-marketing-with-ai.md)
+- Session 4 · [AI in Everyday Marketing Activities](term-1/09-smart-digital-marketing-with-ai/session-04-ai-in-marketing-activities.md)
+- Session 5 · [Ethical AI and Future Trends](term-1/09-smart-digital-marketing-with-ai/session-05-ethical-ai-and-future-trends.md)
+- 📝 [Practice test](term-1/09-smart-digital-marketing-with-ai/practice-test.md)
+
+</details>
+
 
 ### [Term 2 · Advanced Digital Marketing](term-2/README.md)
 
